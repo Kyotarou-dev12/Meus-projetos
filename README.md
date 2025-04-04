@@ -13,6 +13,10 @@ Página de Registro → Uma página de cadastro estilizada com formulários.
 
 Página de ideias de projetos para iniciantes → uma pagina para dar algumas ideias de projetos
 
+Pagina de loja fake → uma pagina focada em uma loja fake pra treinar
+
+Pokedex → Uma pokedex de pokemons que estou criando
+
 # 🚀 Como visualizar os projetos
 Acesse a pasta do projeto que deseja ver.
 
